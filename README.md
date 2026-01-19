@@ -5,12 +5,11 @@
 ---
 
 ## 🚀 Tính năng chính
-
-​* **Điều khiển chuột:** Di chuyển con trỏ chuột bằng ngón trỏ.
-​* **Click chuột:** Thực hiện click trái/phải bằng cách chụm các đầu ngón tay.
-​* **Điều khiển âm lượng:** Tăng/giảm âm lượng hệ thống bằng khoảng cách giữa ngón cái và ngón trỏ.
-* **​Phím tắt:** Thực hiện các thao tác như cuộn trang hoặc chuyển tab.
-
+* **Điều khiển chuột:** Di chuyển con trỏ chuột bằng ngón trỏ. 
+* **Click chuột:** Thực hiện click trái/phải bằng cách chụm các đầu ngón tay. 
+* **Điều khiển âm lượng:** Tăng/giảm âm lượng hệ thống bằng khoảng cách giữa ngón cái và ngón trỏ. 
+* **​Phím tắt:** Thực hiện các thao tác như cuộn trang hoặc chuyển tab. 
+ 
 ---
 
 ## 🛠️ Cài đặt (Python 3.11.x)
